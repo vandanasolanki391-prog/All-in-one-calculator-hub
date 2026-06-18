@@ -80,6 +80,6 @@ input,select,textarea{width:100%;border:1px solid var(--border);border-radius:10
 }
 
 .logo img{
-  height:80px;
+  height:100px;
   width:auto;
 }
