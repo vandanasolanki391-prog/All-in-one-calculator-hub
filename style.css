@@ -73,3 +73,13 @@ input,select,textarea{width:100%;border:1px solid var(--border);border-radius:10
   .category-tile-grid{grid-template-columns:1fr}
   .hero-actions .btn{width:100%;text-align:center}
 }
+.logo{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+
+.logo img{
+  height:50px;
+  width:auto;
+}
